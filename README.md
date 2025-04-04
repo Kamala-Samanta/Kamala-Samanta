@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kiara!</h1>
+<h1 align="center">Hey there, I'm Kamala!</h1>
 <p align="center">🚀 Web Developer in Progress | 🎬 Cinematography Enthusiast | 🌱 Always Learning</p>
 
 ---
